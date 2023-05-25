@@ -107,12 +107,37 @@ tbody tr:last-child {
     border-bottom: 1px solid #4976ce;
 }
 
-/* ELEMENTI NEL MAIN - ARTICLE */
+iframe {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+}
 
-/* TABELLE */
+h4 {
+    text-transform: uppercase;
+    font-size: 1.9em;
+    text-align: center;
+}
 
-/* FORM */
+.form_container {
+    background-color: #b8b3b375;
+    margin: 35px 25px;
+}
 
-/* ELEMENTI NELL' ASIDE */
+.input {
+    display: inline;
+}
 
-/* FOOTER */
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px dotted black;
+}
+
+button {
+    color: #4976ce;
+}
