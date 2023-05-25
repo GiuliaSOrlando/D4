@@ -141,3 +141,12 @@ input {
 button {
     color: #4976ce;
 }
+
+footer {
+    width: 90%;
+    margin: 20px auto;
+    background-image: linear-gradient(to bottom, #2bafcf, #006f8a);
+    box-shadow: 1px 5px 15px -1px rgba(0,0,0,0.68);
+    padding: 25px 15px;
+    border-bottom: 0.1px solid whitesmoke;
+}
