@@ -1,0 +1,77 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    background-image: url(../img/sfondo.png);
+    font-family: 'Poppins', sans-serif;
+}
+/* HEADER */
+.heading_container {
+    width: 90%;
+    margin: 20px auto;
+    background-image: linear-gradient(to bottom, #2bafcf, #006f8a);
+    box-shadow: 1px 5px 15px -1px rgba(0,0,0,0.68);
+    padding: 25px 15px;
+    border-bottom: 0.1px solid whitesmoke;
+    }
+
+.logo {
+    width: 340px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+nav {
+    margin: 20px;
+}
+
+.nav_link {
+    margin: 3px;
+    list-style-type: none;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    color: whitesmoke;
+}
+/* MAIN */
+
+main {
+    width: 90%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    box-shadow: 1px 5px 15px -1px rgba(0,0,0,0.68);
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.9em;
+}
+
+hr {
+    visibility: hidden;
+    margin-top: 15px;
+}
+
+i {
+    color: #908f8f;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
